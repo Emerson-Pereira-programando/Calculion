@@ -63,11 +63,12 @@ h2 {
 }
 
 #h3for {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     border-radius: 5px;
     background-color: rgb(143, 240, 240);
     width: 200px;
     border: 0px solid rgb(143, 240, 240);
     padding: 0px;
-    margin-top: 5px;
+    margin-top: 0px;
     margin-left: 50px;
 }
