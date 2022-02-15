@@ -1,0 +1,73 @@
+body {
+    background-color: rgb(207, 252, 252);
+}
+
+#cabe {
+    color: white;
+    text-align: center;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-weight: normal;
+    background-color: rgb(143, 240, 240);
+    opacity: 80%;
+}
+
+#cabe {
+    border-color: rgb(143, 240, 240);
+    border-style: solid;
+    border-radius: 5px;
+}
+
+#cabe {
+    margin-top: 0px;
+    margin-bottom: 0px;
+    margin-right: 0px;
+    margin-left: 0px;
+    padding-top: 25px;
+    padding-right: 30px;
+    padding-bottom: 25px;
+    padding-left: 50px;
+}
+
+h2 {
+    color: white;
+    text-align: center;
+    font-family: 'Source Sans Pro', sans-serif;
+    border-radius: 5px;
+    background-color: rgb(143, 240, 240);
+    width: 300px;
+    border: 3px solid rgb(143, 240, 240);
+    padding: 10px;
+    margin-left: 50px;
+}
+
+#valor {
+    border-radius: 5px;
+    border-color: white;
+    background-color: rgb(255, 255, 255);
+    margin-left: 50px;
+    width: 300px;
+    border: 3px solid rgb(143, 240, 240);
+    padding: 10px;
+}
+
+#enviar {
+    border-radius: 5px;
+    background-color: white;
+    border-color: white;
+    border-right: white;
+    border-bottom: white;
+    width: 100px;
+    border: 3px solid rgb(143, 240, 240);
+    padding: 10px;
+    cursor: pointer;
+}
+
+#h3for {
+    border-radius: 5px;
+    background-color: rgb(143, 240, 240);
+    width: 200px;
+    border: 0px solid rgb(143, 240, 240);
+    padding: 0px;
+    margin-top: 5px;
+    margin-left: 50px;
+}
