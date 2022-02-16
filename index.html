@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="pt-br">
+<html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -8,11 +8,23 @@
     <link rel="shortcut icon" href="Images\HTML5.ico" type="image/x-icon">
     <link rel="stylesheet" href="Styles.css">
 <body>
-    <h1 id="cabe">Tabuada</h1>
-    <h2>Digite a Tabuada: </h2>
-    <input type="number" placeholder="Valor" id="valor">
-    <button id="enviar">Enviar</button>
-    <h4 id="h3for"></h4>
+    <div id="h1box">Calculion</div>
+    
+    <input type="button" value="≡" id="Menu" onclick="MENU()">
+
+    <div id="Categorias"></div>
+
+
+    <div id="tabuadaButton">
+        <input type="button" value="Multiply Table"     id="tabuada" onclick="TABUADA()">
+    </div>
+    <div class="tabuad">
+        <h2 id="TABLE">Enter the Table: </h2>
+        <input type="number" placeholder="Value" id="valor">
+        <button id="enviar">Send</button>
+        <h4 id="h3for"></h4>
+    </div>
+
     <script src="CalculionJS.js"></script>
 </body>
 </html>
