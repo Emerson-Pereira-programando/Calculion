@@ -66,7 +66,7 @@ enviar.onclick = function() {
     var valor01 = k * 1;
     var c = z * k
     document.getElementById("h3for").style.padding = "5px";
-    document.getElementById("h3for").style.border = "3px solid white";
+    document.getElementById("h3for").style.border = "2px solid white";
 
     for (var i = 1; i <= 9; i++) {
         valor01 = k * i;
