@@ -77,7 +77,7 @@ body {
     border-radius: 5px;
     background-color: rgb(24, 24, 24);
     width: 300px;
-    border: 3px solid white;
+    border: 2px solid white;
     padding: 10px;
     z-index: 0;
 }
@@ -89,7 +89,7 @@ body {
     border-color: white;
     background-color: rgb(24, 24, 24);
     width: 300px;
-    border: 3px solid white;
+    border: 2px solid white;
     padding: 10px;
 }
 
@@ -102,7 +102,7 @@ body {
     border-right: white;
     border-bottom: white;
     width: 100px;
-    border: 3px solid white;
+    border: 2px solid white;
     padding: 10px;
     cursor: pointer;
 }
